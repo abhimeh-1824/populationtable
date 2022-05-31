@@ -1,0 +1,40 @@
+{
+  "populationData": [
+    {
+      "country": "india",
+      "city": "dilhi",
+      "population": 4465465161,
+      "id": 1
+    },
+    {
+      "country": "aus",
+      "city": "canberra",
+      "population": 46546461,
+      "id": 2
+    },
+    {
+      "country": "england",
+      "city": "london",
+      "population": 46463216191,
+      "id": 3
+    },
+    {
+      "country": "jurmany",
+      "city": "berlin",
+      "population": 4464546,
+      "id": 4
+    },{
+      "country": "japan",
+      "city": "Tokyo",
+      "population": 6546546545,
+      "id": 5
+    }
+  ],
+  "country": [
+    "india",
+    "aus",
+    "england",
+    "jurmany",
+    "japan"
+  ]
+}
